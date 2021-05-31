@@ -112,6 +112,7 @@ p {
 
 footer {
     display: flex; 
+    justify-content: center;
     align-items: center;
     margin-left: auto;
     margin-right: auto;
@@ -174,7 +175,6 @@ footer {
     background-color: rgb(214, 214, 214);
     border-style: none;
 }
-
 
 @media screen and (max-width: 768px) {
 
